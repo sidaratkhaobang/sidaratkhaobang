@@ -2,6 +2,17 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sidaratkhaobang&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sidaratkhaobang&count_private=true&show_icons=true&theme=radical)
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidaratkhaobang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 <!--
 **sidaratkhaobang/sidaratkhaobang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
